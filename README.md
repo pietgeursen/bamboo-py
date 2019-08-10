@@ -1,4 +1,4 @@
-# libbamboo-py
+# bamboo-py
 
 > bamboo in python
 
